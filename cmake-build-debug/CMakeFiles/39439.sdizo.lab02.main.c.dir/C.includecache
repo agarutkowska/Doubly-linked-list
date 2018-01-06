@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/test/CLionProjects/untitled19/39439.sdizo.lab02.main.c
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+

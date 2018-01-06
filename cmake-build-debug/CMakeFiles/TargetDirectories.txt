@@ -1,0 +1,3 @@
+/Users/test/CLionProjects/untitled19/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/test/CLionProjects/untitled19/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/test/CLionProjects/untitled19/cmake-build-debug/CMakeFiles/39439.sdizo.lab02.main.c.dir
